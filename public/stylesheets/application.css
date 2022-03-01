@@ -1,0 +1,24 @@
+h1 { 
+    color: cyan;
+    font-size: 70px;
+}
+p {
+    font-size: 36px;
+    color: purple;
+}
+
+p a {
+    color: purple;
+}
+
+#boba {
+    color: rgb(0, 128, 64);
+}
+
+.taco {
+    color: yellow;
+}
+
+body { 
+    background-color: lightblue;
+}
